@@ -1,0 +1,18 @@
+{
+  "user": [
+    {
+      "email": "mravikiran1998@gmail.com",
+      "firstName": "ravi",
+      "lastName": "kiran",
+      "password": "ravi@1998",
+      "id": 1
+    },
+    {
+      "firstName": "karthik",
+      "lastName": "mukku",
+      "email": "karthik@g",
+      "password": "karthik@1",
+      "id": 2
+    }
+  ]
+}
