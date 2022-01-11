@@ -205,7 +205,9 @@
     justify-content: space-between;
     align-items: center;
     flex-wrap: wrap;
-    width: 80%;
+   width:80%;
+   margin: 10px;
+   padding: 20px;
 }
 
 .product-item{
@@ -321,6 +323,8 @@
 .product-item1{
     box-shadow: 0 0 6px 0 #bfbfbf;
     padding: 10px;
+    width:200px;
+    margin: 20px;
 }
 
 .add-to-cart-button{
